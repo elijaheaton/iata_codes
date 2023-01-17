@@ -1,6 +1,6 @@
 README.md
-main.py
 setup.py
+iata_codes/main.py
 iata_codes.egg-info/PKG-INFO
 iata_codes.egg-info/SOURCES.txt
 iata_codes.egg-info/dependency_links.txt
