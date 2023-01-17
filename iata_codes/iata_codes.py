@@ -10,6 +10,7 @@ class Converter:
     database = {}
 
     def __init__(self):
+        update()
         self.last_updated = datetime.now()
         with open('data.csv', 'r') as data:
             for line in csv.reader(data):
