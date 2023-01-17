@@ -11,7 +11,7 @@ if __name__ == "__main__":
         author_email='eaton.elijah@gmail.com',
         install_requires=[
             'pandas',
-            'beauitfulsoup4',
+            'beautifulsoup4',
             'lxml',
         ],
     )
